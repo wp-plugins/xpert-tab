@@ -17,7 +17,9 @@ Dra&Drop tab shortcode Builder works inside your editor.
 [Xpert Tab](https://www.themexpert.com/wordpress-plugins/xpert-tab-wp) is an awesome shortcode builder, that allow you to preset you contents in a tabbed style. The plugin easy to customize and  easy to generate unlimited tab sets anywhere in wordpress page and post. Xpert Tab has been crafted with cool backend, your every input you and frontend look you can visualize directly in the backend. 
 
 Xpert Tab is comes with lot more backend and frontend opportunity. you can easily short you incond item, switch tab style and many more.  The cool feature of this plugin is that, Xpert Tab has been developed with Bootstrap framework with ThemeXpert’s own prefixes that avoid CSS conflict with others plugin. 
- 
+
+**[Live Demo](http://demo.themexpert.com/wpplugins/xpert-tabs)**
+
  **Feature**
 
 * Xpert Tab is responsive and friendly to any mobile devices
