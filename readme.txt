@@ -8,7 +8,7 @@ Stable tag: 4.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Dra&Drop tab shortcode Builder works inside your editor.
+Drag&Drop tab Shortcode Builder works inside your editor.
 
 == Description ==
 
