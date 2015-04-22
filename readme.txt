@@ -47,13 +47,13 @@ Xpert Tab is comes with lot more backend and frontend opportunity. you can easil
 
 **Example Shortcode**
 
-``` 
+`
 [xt_tab style="xa-default" ]
 [xt_item title="Tab Title 01" icon="Select Icon---"]Content[/xt_item]
 [xt_item title="Tab Title 02" icon="Select Icon---"]Content[/xt_item]
 [xt_item title="Tab Title 03" icon="Select Icon---"]Content[/xt_item]
 [/xt_tab]
-```
+`
 Though don't need to understand shortcode by yourself, Xpert Tab will generate for you. If you want update your tab set manually. it takes three parameters to change tab title, style and title icons. 
 
 **Styles parameters:**
@@ -67,10 +67,10 @@ If you don't select any style for your tab set. It will give you xa-default styl
 **Icon Parameters**
 You don't need to touch shortcode parameter for title icons if you select them correctly while creating items. If you want update them. Just add the icon name. Xpert Tab supports **FontAwesome** icons. FontAwesome come with `fa fa` prefix with each individual icon. Xpert Tab will add the prefix automatically for you. you need only pass the icon name. Have a look on the examples.
 
-```
+`
 icon="facebook"
 icon="twitter"
-```
+`
  == Installation ==
 
 Installing the plugins is just like installing other WordPress plugins. Have on the installation processes. 
