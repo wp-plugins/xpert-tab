@@ -105,7 +105,7 @@ abstract class Htmltab {
 	{
 		$html = array();
 		
-		include_once 'icons.php';
+		$icons = include __DIR__.'/icons.php';
 
 		$html[] = '<select class="icons" style="font-family: \'FontAwesome\'">';
 			foreach ($icons['fontawesome'] as $icon => $content )

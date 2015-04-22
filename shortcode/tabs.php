@@ -44,6 +44,7 @@ function tabs_shortcode_nested( $atts, $content= null ){
       ), $atts) );
   
   $x = $GLOBALS['tab_count'];
+  $content = do_shortcode($content);
   //__User input bind in supper globar array__//
   $GLOBALS['tabs'][$x] = array( 'title' => $title, 'content' => $content, 'icon' => $icon );
   $GLOBALS['tab_count']++;
