@@ -1,4 +1,3 @@
-Alert when deleting items form backend
 === Xpert Tab ===
 Contributors: themexpert, WPEshaan, masud_cse 
 Donate link: http://www.themexpert.com
@@ -97,7 +96,7 @@ Yes, You can create as many as tab set if you want.
 **How can I change my tab style ? **
 It pretty simple, Just go to **select style** drop down option and select the available styles.
 
- == Changelog ==
+== Changelog ==
 = 1.0 =
 Initial release
 
