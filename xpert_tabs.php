@@ -4,7 +4,7 @@
  * Plugin Name: Xpert Tabs
  * Plugin URI: http://themexpert.com/wordpress-plugins/xpert-tabs-wp
  * Description: Supercharge your WordPress tabs plugin.
- * Version: 1.0
+ * Version: 1.1
  * Author: ThemeXpert
  * Author URI: http://www.themexpert.com
  * License: GPLv2 or later
