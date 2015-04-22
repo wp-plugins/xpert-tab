@@ -1,4 +1,3 @@
-Alert when deleting items form backend
 === Xpert Tab ===
 Contributors: themexpert, WPEshaan, masud_cse 
 Donate link: http://www.themexpert.com
