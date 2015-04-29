@@ -43,13 +43,13 @@ abstract class Htmltab {
 	public static function getPresetStyles(){
 		$html = '<select class="pull-right presets-tab uninit" >
 					<option value="xa-default" selected >Select Your Styles</option>
-					<optgroup label="TX Tabs Styles">		
-						<option value="xa-default">TX DEFAULT</option>			
+					<optgroup label="TX Tabs Styles">
+						<option value="xa-default">TX DEFAULT</option>
 						<option value="xa-green">TX GREEN</option>
 					  	<option value="xa-blue">TX BLUE</option>
 					  	<option value="xa-yellow" >TX YELLOW</option>
 					  	<option value="xa-red" >TX RED</option>
-				  	</optgroup>				  	
+				  	</optgroup>
 				</select>';
 
 		return $html;
@@ -104,8 +104,8 @@ abstract class Htmltab {
 	public static function getIconLists()
 	{
 		$html = array();
-		
-		$icons = include __DIR__.'/icons.php';
+
+		$icons = include dirname(__FILE__) . '/icons.php';
 
 		$html[] = '<select class="icons" style="font-family: \'FontAwesome\'">';
 			foreach ($icons['fontawesome'] as $icon => $content )
